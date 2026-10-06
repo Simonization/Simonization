@@ -31,6 +31,14 @@ personal sites, and product/client work.
 | [Swifty-Protein](https://github.com/Simonization/Swifty-Protein) |  |
 | [webservTester](https://github.com/Simonization/webservTester) | 2 python testers for webserv 42 |
 
+## 🎯 42 electives
+Optional 42 projects I pick up on my own — not part of the tronc commun and not required for the
+RNCP certification (at best a little XP).
+
+| Project | About |
+|---|---|
+| Call Me Maybe | Function calling with constrained decoding on a small LLM (private repo) |
+
 ## 🧑 Personal
 | Project | About |
 |---|---|
