@@ -17,7 +17,7 @@ Final-year student at **École 42 Brussels**, working toward the **RNCP 7** titl
 | [42_Pipex](https://github.com/Simonization/42_Pipex) | Shell pipes in C |
 | [42_Printf](https://github.com/Simonization/42_Printf) | Re-implementing printf |
 | [42_pushswap](https://github.com/Simonization/42_pushswap) | Ecole 42 Circle 2 Project 3 |
-| [42_Snippets](https://github.com/Simonization/42_Snippets) | Small C snippets |
+| [42_Snippets](https://github.com/Simonization/42_Snippets) | C snippets |
 | [42_Swifty_Protein](https://github.com/Simonization/42_Swifty_Protein) | 3D molecule viewer, mobile (React Native), with a schoolmate |
 | [42_Transcendence](https://github.com/Simonization/42_Transcendence) | Esports companion platform, team of four. Pointer to the team repo and to my deployed version |
 
@@ -26,7 +26,7 @@ Final-year student at **École 42 Brussels**, working toward the **RNCP 7** titl
 |---|---|
 | [web-cub3d](https://github.com/Simonization/web-cub3d) | My cub3D raycaster ported to the browser, with in-game map and colour editors. Playable at [play.langerock.xyz](https://play.langerock.xyz) |
 | [web-transcendence](https://github.com/Simonization/web-transcendence) | Esportendence, the Transcendence project continued after school: Vue 3, NestJS, PostgreSQL, Docker. Live at [transcendence.langerock.xyz](https://transcendence.langerock.xyz) |
-| [web-secret-santa](https://github.com/Simonization/web-secret-santa) | Secret Santa draw site |
+| [web-secret-santa](https://github.com/Simonization/web-secret-santa) | Secret Santa site |
 
 ## 🧭 RNCP 7 track
 The 13-project path runs in private repos. The public one:
