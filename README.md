@@ -1,56 +1,38 @@
 # Hi, I'm Simon 👋
 
-Builder & **École 42 Brussels** student. Projects span school (C / C++ / systems),
-personal sites, and product/client work.
+Final-year student at **École 42 Brussels**, working toward the **RNCP 7** title (Master-level, *database and data architecture*, due September 2027). I also build product and client work, mostly in private repos.
 
-**🔗 Interactive index of everything → [repos.langerock.xyz](https://repos.langerock.xyz)**
-&nbsp;·&nbsp; Browse on GitHub by topic:
-[🎓 42-school](https://github.com/Simonization?tab=repositories&q=topic%3A42-school) ·
-[🧑 personal](https://github.com/Simonization?tab=repositories&q=topic%3Apersonal) ·
-[💼 professional](https://github.com/Simonization?tab=repositories&q=topic%3Aprofessional)
-
----
-
-## 🎓 École 42
+## 🎓 École 42: common core
 | Project | About |
 |---|---|
-| [42_Born2BeRoot](https://github.com/Simonization/42_Born2BeRoot) |  |
+| [42_Born2BeRoot](https://github.com/Simonization/42_Born2BeRoot) | Virtual machine, sysadmin |
 | [42_CPP](https://github.com/Simonization/42_CPP) | Intro to Object Oriented Programming |
+| [42_cub3D](https://github.com/Simonization/42_cub3D) | Raycaster in C with MiniLibX, with a schoolmate |
 | [42_FdF](https://github.com/Simonization/42_FdF) | FdF Project |
-| [42_Get_next_line](https://github.com/Simonization/42_Get_next_line) |  |
-| [42_Libft](https://github.com/Simonization/42_Libft) |  |
-| [42_Pipex](https://github.com/Simonization/42_Pipex) |  |
-| [42_Printf](https://github.com/Simonization/42_Printf) |  |
+| [42_Get_next_line](https://github.com/Simonization/42_Get_next_line) | Reading a file line by line in C |
+| [42_Inception](https://github.com/Simonization/42_Inception) | Docker |
+| [42_Libft](https://github.com/Simonization/42_Libft) | My own C standard library |
+| [42_minishell_visualisation](https://github.com/Simonization/42_minishell_visualisation) | Minishell Parser outputs an AST. This visualises is. C Linked List > Dot > Graphviz.py |
+| [42_philosophers](https://github.com/Simonization/42_philosophers) | Project 42 about threading |
+| [42_Pipex](https://github.com/Simonization/42_Pipex) | Shell pipes in C |
+| [42_Printf](https://github.com/Simonization/42_Printf) | Re-implementing printf |
 | [42_pushswap](https://github.com/Simonization/42_pushswap) | Ecole 42 Circle 2 Project 3 |
-| [42_Snippets](https://github.com/Simonization/42_Snippets) |  |
-| [AST-Visualisation](https://github.com/Simonization/AST-Visualisation) | Minishell Parser outputs an AST. This visualises is. C Linked List > Dot > Graphviz.py |
-| [cub3D](https://github.com/Simonization/cub3D) |  |
-| [Inception](https://github.com/Simonization/Inception) | Docker |
-| [Minicro](https://github.com/Simonization/Minicro) |  |
-| [philosophers](https://github.com/Simonization/philosophers) | Project 42 about threading |
-| [Swifty-Protein](https://github.com/Simonization/Swifty-Protein) |  |
-| [webservTester](https://github.com/Simonization/webservTester) | 2 python testers for webserv 42 |
+| [42_Snippets](https://github.com/Simonization/42_Snippets) | Small C snippets |
+| [42_Swifty_Protein](https://github.com/Simonization/42_Swifty_Protein) | 3D molecule viewer, mobile (React Native), with a schoolmate |
+| [42_Transcendence](https://github.com/Simonization/42_Transcendence) | Esports companion platform, team of four. Pointer to the team repo and to my deployed version |
 
-## 🎯 42 electives
-Optional 42 projects I pick up on my own — not part of the tronc commun and not required for the
-RNCP certification (at best a little XP).
-
+## 🌐 Web
 | Project | About |
 |---|---|
-| Call Me Maybe | Function calling with constrained decoding on a small LLM (private repo) |
+| [web-cub3d](https://github.com/Simonization/web-cub3d) | My cub3D raycaster ported to the browser, with in-game map and colour editors. Playable at [play.langerock.xyz](https://play.langerock.xyz) |
+| [web-transcendence](https://github.com/Simonization/web-transcendence) | Esportendence, the Transcendence project continued after school: Vue 3, NestJS, PostgreSQL, Docker. Live at [transcendence.langerock.xyz](https://transcendence.langerock.xyz) |
+| [web-secret-santa](https://github.com/Simonization/web-secret-santa) | Secret Santa draw site |
 
-## 🧑 Personal
-| Project | About |
-|---|---|
-| [langerock-family-research](https://github.com/Simonization/langerock-family-research) |  |
-| [mariage-save-the-date](https://github.com/Simonization/mariage-save-the-date) |  |
-| [Resume](https://github.com/Simonization/Resume) | Resume |
-| [secret-santa](https://github.com/Simonization/secret-santa) |  |
+## 🧭 RNCP 7 track
+The 13-project path runs in private repos. The public one:
+[rncp-work-experience-1](https://github.com/Simonization/rncp-work-experience-1), a talk on my internship at Aya.
 
 ## 💼 Professional
-Product & client work — mostly **private** repos. Flagship: **Flexboard**, plus
-CRM, automation and integration tooling. See the
-[interactive index](https://repos.langerock.xyz) or ask for a walkthrough.
+Product and client work (energy, flexibility, CRM, automation), all **private**. Ask for a walkthrough.
 
-<sub>Generated from repo topics — the filter links above always reflect the latest.</sub>
-
+<sub>Repos are grouped by prefix: `42_` school, `rncp-` the RNCP path, `extra-` other 42 projects, `web-` deployments, `life-` `infra-` `side-` private.</sub>
